@@ -1,6 +1,0 @@
-...
-1 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
-
-[StaticMesh] -> "SM_Camcorder.fbx" exported in 0.015625 sec.
-E:\Storage\Rift\Content\Imports\StaticMesh\
-
